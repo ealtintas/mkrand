@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PURPOSE="Simple but convinient script to create a bunch of random strings (which may also be used as passwords)"
+PURPOSE="Simple but convenient script to create a bunch of random strings (which may also be used as passwords)"
 
 # REFS:
 # - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
